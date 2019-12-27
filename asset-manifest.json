@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GG2/static/css/main.bfea078a.chunk.css",
-    "main.js": "/GG2/static/js/main.05b6af76.chunk.js",
-    "main.js.map": "/GG2/static/js/main.05b6af76.chunk.js.map",
+    "main.css": "/GG2/static/css/main.981f7211.chunk.css",
+    "main.js": "/GG2/static/js/main.dd9568a1.chunk.js",
+    "main.js.map": "/GG2/static/js/main.dd9568a1.chunk.js.map",
     "runtime-main.js": "/GG2/static/js/runtime-main.7082c49b.js",
     "runtime-main.js.map": "/GG2/static/js/runtime-main.7082c49b.js.map",
     "static/css/2.4e89ce74.chunk.css": "/GG2/static/css/2.4e89ce74.chunk.css",
     "static/js/2.29869ddd.chunk.js": "/GG2/static/js/2.29869ddd.chunk.js",
     "static/js/2.29869ddd.chunk.js.map": "/GG2/static/js/2.29869ddd.chunk.js.map",
     "index.html": "/GG2/index.html",
-    "precache-manifest.6b2bf07612fd2a84d6dfc56424f91018.js": "/GG2/precache-manifest.6b2bf07612fd2a84d6dfc56424f91018.js",
+    "precache-manifest.0ccc02b630b40209ca47d694380af051.js": "/GG2/precache-manifest.0ccc02b630b40209ca47d694380af051.js",
     "service-worker.js": "/GG2/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/GG2/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.bfea078a.chunk.css.map": "/GG2/static/css/main.bfea078a.chunk.css.map",
-    "static/media/kakoy-to-loh.png": "/GG2/static/media/kakoy-to-loh.8d7093ec.png"
+    "static/css/main.981f7211.chunk.css.map": "/GG2/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/GG2/static/media/persik.8d7093ec.png"
   }
 }
