@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GG2/static/css/main.981f7211.chunk.css",
+    "main.css": "/GG2/static/css/main.b7805bf0.chunk.css",
     "main.js": "/GG2/static/js/main.9957d8b2.chunk.js",
     "main.js.map": "/GG2/static/js/main.9957d8b2.chunk.js.map",
     "runtime-main.js": "/GG2/static/js/runtime-main.7082c49b.js",
@@ -9,10 +9,10 @@
     "static/js/2.f108ca4a.chunk.js": "/GG2/static/js/2.f108ca4a.chunk.js",
     "static/js/2.f108ca4a.chunk.js.map": "/GG2/static/js/2.f108ca4a.chunk.js.map",
     "index.html": "/GG2/index.html",
-    "precache-manifest.639cdbc1213cfe148224b31affa2654e.js": "/GG2/precache-manifest.639cdbc1213cfe148224b31affa2654e.js",
+    "precache-manifest.6dcddc1e518c61713b27fa4c69658ed1.js": "/GG2/precache-manifest.6dcddc1e518c61713b27fa4c69658ed1.js",
     "service-worker.js": "/GG2/service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "/GG2/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/GG2/static/css/main.981f7211.chunk.css.map",
+    "static/css/main.b7805bf0.chunk.css.map": "/GG2/static/css/main.b7805bf0.chunk.css.map",
     "static/media/persik.png": "/GG2/static/media/persik.8d7093ec.png"
   }
 }
